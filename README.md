@@ -37,21 +37,9 @@ ERPNext • Frappe Framework • Custom Modules
 
 ---
 
-## 📊 GitHub Stats
-
-![Pawanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawaneshyadav&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github.com/stars/pawaneshyadav/lists/my-stack)
-
----
-
 ## 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawaneshyadav&layout=compact&theme=tokyonight)
+![Python](https://skillicons.dev/icons?i=python,django,docker,git,linux,postgres)
 
 ---
 
