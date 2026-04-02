@@ -30,7 +30,7 @@ ERPNext • Frappe Framework • Custom Modules
 ![Docker](https://skillicons.dev/icons?i=docker,linux,git)
 
 ### Databases
-![Database](https://skillicons.dev/icons?i=mysql,postgres)
+![Database](https://skillicons.dev/icons?i=mysql,postgres,mariadb)
 
 ### Frontend
 ![Frontend](https://skillicons.dev/icons?i=react,js,html,css)
