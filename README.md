@@ -45,7 +45,7 @@ ERPNext • Frappe Framework • Custom Modules
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawaneshyadav&theme=tokyonight)
+![GitHub Streak](https://github.com/stars/pawaneshyadav/lists/my-stack)
 
 ---
 
