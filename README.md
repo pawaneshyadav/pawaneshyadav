@@ -58,10 +58,7 @@ Biometric attendance automation integrated with ERPNext.
 
 ## 🌐 Connect With Me
 
-LinkedIn
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pawanesh-yadav-473318226/)
-
-GitHub  
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/pawaneshyadav)
 
 
